@@ -1,0 +1,13 @@
+{
+  "name": "sgm-encryption-email",
+  "version": "0.1.0",
+  "dependencies": {
+    "browser-sync": "^3.0.3",
+    "office-addin-dev-certs": "^1.13.5"
+  },
+  "scripts": {
+    "install:ca": "office-addin-dev-certs install",
+    "start": "browser-sync start --config bsconfig.json",
+    "serve": "npm run install:ca && npm run start"
+  }
+}

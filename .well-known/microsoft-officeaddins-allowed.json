@@ -1,7 +1,8 @@
 {
 	"allowed": [
-		"https://jahaw-workspace.github.io/sgm-outlook-addin/commands.js",
-		"https://jahaw-workspace.github.io/sgm-outlook-addin/login.js",
-		"https://jahaw-workspace.github.io/sgm-outlook-addin/logout.js"
+		"https://sgm-outlook-addin.vercel.app/commands.js",
+		"https://sgm-outlook-addin.vercel.app/login.js",
+		"https://sgm-outlook-addin.vercel.app/logout.js",
+		"https://sgm-outlook-addin.vercel.app/taskpane.js"
 	]
 }

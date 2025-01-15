@@ -1,7 +1,7 @@
 {
 	"allowed": [
-		"https://localhost:3001/commands.js",
-		"https://localhost:3001/login.js",
-		"https://localhost:3001/logout.js"
+		"https://jahaw-workspace.github.io/sgm-outlook-addin/commands.js",
+		"https://jahaw-workspace.github.io/sgm-outlook-addin/login.js",
+		"https://jahaw-workspace.github.io/sgm-outlook-addin/logout.js"
 	]
 }

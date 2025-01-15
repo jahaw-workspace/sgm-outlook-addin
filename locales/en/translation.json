@@ -1,0 +1,20 @@
+{
+  "是否开启加密策略配置": "Whether to enable encryption policy configuration",
+  "开启": "Open",
+  "未发送": "Not Sent",
+  "请填入主题": "Please enter the subject",
+  "未设置主题": "Subject not set",
+  "正文中包含敏感词汇，请移除后发送": "The text contains sensitive words, please delete them before sending",
+  "加密模版": "Encryption template",
+  "不可转发": "Not returnable",
+  "阅读次数": "Reading times",
+  "无限制": "Unlimited",
+  "访问有效期": "Access validity period",
+  "请选择": "Please select",
+  "未读邮件提醒": "Unread email reminder",
+  "提醒收件人": "Remind the recipient",
+  "不提醒": "Don't remind",
+  "邮件阅读提醒": "Email reading reminder",
+  "提醒发件人": "Remind the sender",
+  "保存": "Save"
+}

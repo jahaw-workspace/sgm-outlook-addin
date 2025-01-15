@@ -8,11 +8,11 @@
       "/node_modules": "node_modules"
     }
   },
-  "port": 3001,
+  "port": 3000,
   "https": {
-    "key": "C:/Users/li.jiahao5/.office-addin-dev-certs/localhost.key",
-    "cert": "C:/Users/li.jiahao5/.office-addin-dev-certs/localhost.crt",
-    "ca": "C:/Users/li.jiahao5/.office-addin-dev-certs/ca.crt"
+    "key": "C:/Users/Jahaw/.office-addin-dev-certs/localhost.key",
+    "cert": "C:/Users/Jahaw/.office-addin-dev-certs/localhost.crt",
+    "ca": "C:/Users/Jahaw/.office-addin-dev-certs/ca.crt"
   }, 
   "watch": true,
   "files": "*.*"
